@@ -22,7 +22,7 @@ try {
 			};
 
 			return {
-				title: `${allData.name}: ${allData.age} years old ${allData.gender}`,
+				title: `${allData.name}: ${allData.age} year old ${allData.gender}`,
 				subtitle: `Nationality: ${allData.country
 					.map((co) => `${flag(co.country_id)} ${co.country_id} (${(co.probability * 100).toFixed(2)}%)  `)
 					.reduce((acc, cur) => acc + cur, '')}`,

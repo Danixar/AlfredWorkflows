@@ -7,6 +7,6 @@ Where my custom Alfred Workflow data is backed up. Each folder contains a differ
 	2. Open new blank workflow in finder
 	3. Open a folder in this git repo for the workflow you want 
 	4. Drag the git folder's contents into the blank workflows folder
-	5. Viola!
+	5. Voila!
 
 **Note: I should really just import alfred executables files instead of the above method (which is straight out of 2008)**
